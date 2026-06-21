@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I'm Kanishka 👋
+
+I'm a Computer Science graduate (University of Delhi) working at the intersection of ML research and LLM systems. Currently building and breaking models on corporate credit rating prediction, and training production LLMs at Outlier AI.
 
 <!--
 **kanishka18-bee/kanishka18-bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
