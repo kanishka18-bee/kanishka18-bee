@@ -1,7 +1,12 @@
-Hi, I'm Kanishka 👋
+## Hi, I'm Kanishka 👋
 
 I'm a Computer Science graduate (University of Delhi) working at the intersection of ML research and LLM systems. Currently building and breaking models on corporate credit rating prediction, and training production LLMs at Outlier AI.
 
+🔬 What I'm working on
+
+Corporate Credit Rating Prediction — benchmarking GNNs, XGBoost, ordinal regression (mord) on real financial data. Fixing leakage, handling class imbalance, pushing accuracy further.
+AI Agents — exploring tool-use and agentic LLM workflows (starting soon)
+LLM Training @ Outlier AI — evaluating and ranking model outputs across Aether, AstroChat, Center Circle
 <!--
 **kanishka18-bee/kanishka18-bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
