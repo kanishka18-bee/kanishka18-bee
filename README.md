@@ -2,122 +2,149 @@
   <img src="assets/banner.png" width="100%">
 </p>
 
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Kanishka Kashyap
-
-### Machine Learning Engineer • AI Researcher • LLM Trainer
-
-Building intelligent systems using **Machine Learning**, **Large Language Models**, **Graph Neural Networks**, and **Explainable AI**.
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:kanishka.work28@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme)](YOUR_RESUME)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Financial+AI;Graph+Learning;LLM+Systems;Retrieval-Augmented+Generation;Explainable+AI;Building+Intelligent+Systems" />
+</p>
 
-</div>
+<p align="center">
 
----
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 👩‍💻 About Me
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 🎓 B.Sc. (Hons.) Computer Science Graduate — University of Delhi
-- 🤖 LLM Trainer @ Outlier AI
-- 📈 Building AI for Financial Intelligence
-- 🧠 Interested in Graph ML, LLMs, Explainable AI and Agentic Systems
-- 🌱 Always experimenting with new ML architectures
+<a href="YOUR_RESUME">
+<img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
 
----
-
-# 🚀 Current Focus
-
-### 🏦 Corporate Credit Rating Prediction
-
-✔ 593 Companies
-
-✔ 28 Financial Ratios
-
-✔ 7+ Machine Learning Models
-
-✔ Ordinal Learning
-
-✔ Graph Neural Networks
-
-✔ Explainable AI (SHAP)
+</p>
 
 ---
 
-### 🤖 AI Research Copilot
+# > whoami
 
-- Agentic Workflows
-- RAG
-- PDF Intelligence
-- Function Calling
-- MCP
+```bash
+Name        : Kanishka Kashyap
 
----
+Role        : AI Engineer
 
-# 💼 Experience
+Education   : B.Sc. (Hons.) Computer Science
+              University of Delhi
 
-### Outlier AI
+Current     : LLM Trainer @ Outlier AI
 
-**LLM Trainer**
+Focus       : Financial AI
+              Graph Learning
+              LLM Systems
+              Explainable AI
 
-- Evaluating production Large Language Models
-- Ranking model responses
-- Improving reasoning quality
-- Training frontier models
-
----
-
-# 🔥 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🏦 Corporate Credit Rating Prediction | Multi-model ML research using XGBoost, Ordinal Learning & GNNs |
-| 🤖 AI Research Copilot | AI assistant for reading research papers |
-| 📚 NLP Text Classifier | DistilBERT fine-tuning |
-| 🎤 BookMyArtist API | Django REST backend |
+Status      : Open to AI / ML Opportunities
+```
 
 ---
 
-# 🛠 Tech Stack
+# Featured Projects
 
-### Languages
+<table>
 
-![Python](https://skillicons.dev/icons?i=python)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![SQL](https://skillicons.dev/icons?i=mysql)
+<tr>
 
-### Machine Learning
+<td width="50%">
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
-![Scikit](https://go-skill-icons.vercel.app/api/icons?i=sklearn)
+## 🏦 Corporate Credit Rating Prediction
 
-### Frameworks
+Financial AI
 
-![Flask](https://skillicons.dev/icons?i=flask)
-![Django](https://skillicons.dev/icons?i=django)
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
+Ordinal Machine Learning
+
+Graph Learning
+
+Explainable AI
+
+</td>
+
+<td width="50%">
+
+## 🤖 FinPulse
+
+Financial Assistant
+
+LLMs
+
+Agents
+
+Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📄 Resume Parser
+
+NLP
+
+LLMs
+
+Automation
+
+</td>
+
+<td width="50%">
+
+## 🚀 More Coming Soon
+
+Always building.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📚 Research Interests
+# Tech Stack
 
-- Financial Machine Learning
-- Explainable AI
-- Large Language Models
-- Agentic AI
-- Graph Neural Networks
-- Representation Learning
-- Ordinal Machine Learning
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,mysql,git,github,docker,linux,vscode"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+# Research Interests
+
+```text
+• Financial AI
+
+• Graph Representation Learning
+
+• Explainable AI
+
+• Large Language Models
+
+• Retrieval-Augmented Generation
+
+• Agentic AI
+```
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
@@ -127,15 +154,11 @@ Building intelligent systems using **Machine Learning**, **Large Language Models
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=kanishka18-bee&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 <p align="center">
 
@@ -145,33 +168,11 @@ Building intelligent systems using **Machine Learning**, **Large Language Models
 
 ---
 
-# 🏆 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kanishka18-bee&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<i>Building intelligent systems where AI meets financial decision-making.</i>
 
 </p>
-
----
-
-# 📈 Highlights
-
-🏦 Financial AI Research
-
-📄 20+ Research Papers
-
-📊 593 Companies Analysed
-
-🧠 Production LLM Evaluation
-
-⚡ AI Agents
-
-🚀 Open Source
-
----
-
-# 🤝 Let's Connect
 
 If you're working on AI, Machine Learning, LLMs or Research,
 
