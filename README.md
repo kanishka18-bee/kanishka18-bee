@@ -1,28 +1,22 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%">
+  <img src="assets/banner.png" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
-  <img src="assets/banner.png" width="100%">
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Financial+AI;Graph+Learning;LLM+Systems;Retrieval-Augmented+Generation;Explainable+AI;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Financial+AI;Graph+Learning;LLM+Systems;Retrieval-Augmented+Generation;Explainable+AI;Building+Intelligent+Systems" />
 </p>
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/kkanishka/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kanishka.work28@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME">
+<a href="YOUR_RESUME_LINK">
 <img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 
@@ -30,59 +24,63 @@
 
 ---
 
-# > whoami
+```console
+kanishka@github:~$ ./initialize_profile.sh
 
-```bash
-Name        : Kanishka Kashyap
+[✓] Loading profile...
+[✓] Loading projects...
+[✓] Loading research...
+[✓] Loading GitHub statistics...
 
-Role        : AI Engineer
+Initialization Complete.
+```
 
-Education   : B.Sc. (Hons.) Computer Science
-              University of Delhi
+```console
+kanishka@github:~$ whoami
 
-Current     : LLM Trainer @ Outlier AI
+Name          : Kanishka Kashyap
 
-Focus       : Financial AI
-              Graph Learning
-              LLM Systems
-              Explainable AI
+Role          : AI Engineer
 
-Status      : Open to AI / ML Opportunities
+Education     : B.Sc. (Hons.) Computer Science
+                University of Delhi
+
+Current       : LLM Trainer @ Outlier AI
+
+Specialization
+
+├── Financial AI
+├── Graph Learning
+├── LLM Systems
+├── Retrieval-Augmented Generation
+└── Explainable AI
+
+Status
+
+└── Open to AI / ML Opportunities
 ```
 
 ---
 
-# Featured Projects
+# Featured Work
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🏦 Corporate Credit Rating Prediction
+### 🏦 Corporate Credit Rating Prediction
 
-Financial AI
-
-Ordinal Machine Learning
-
-Graph Learning
-
-Explainable AI
+Research-oriented machine learning framework for corporate credit rating prediction using financial statements, ordinal learning, graph-based modeling and explainability.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 FinPulse
+### 🤖 AI Research Copilot
 
-Financial Assistant
-
-LLMs
-
-Agents
-
-Automation
+An AI-powered research assistant built using modern LLM workflows, Retrieval-Augmented Generation (RAG), and intelligent document understanding.
 
 </td>
 
@@ -90,22 +88,19 @@ Automation
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 📄 Resume Parser
+### 💹 FinPulse
 
-NLP
-
-LLMs
-
-Automation
+Financial AI platform focused on intelligent analytics, financial insights, and AI-assisted decision support.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🚀 More Coming Soon
+### 🚀 More Coming Soon...
 
+Always learning.
 Always building.
 
 </td>
@@ -120,7 +115,7 @@ Always building.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,mysql,git,github,docker,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,mysql,git,docker,linux,vscode"/>
 
 </p>
 
@@ -129,17 +124,17 @@ Always building.
 # Research Interests
 
 ```text
-• Financial AI
+• Financial Artificial Intelligence
 
 • Graph Representation Learning
 
-• Explainable AI
+• Explainable Artificial Intelligence
 
 • Large Language Models
 
 • Retrieval-Augmented Generation
 
-• Agentic AI
+• AI Agents
 ```
 
 ---
@@ -170,16 +165,12 @@ Always building.
 
 <p align="center">
 
-<i>Building intelligent systems where AI meets financial decision-making.</i>
+<i>"Building intelligent systems where Artificial Intelligence meets financial decision-making."</i>
 
 </p>
 
-If you're working on AI, Machine Learning, LLMs or Research,
+<p align="center">
 
-I'd love to collaborate.
+⭐ Thanks for visiting my profile!
 
-📧 **kanishka.work28@gmail.com**
-
-🌐 LinkedIn
-
-⭐ Don't forget to check my repositories!
+</p>
