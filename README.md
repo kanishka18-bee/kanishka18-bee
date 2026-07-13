@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
+<a href="assets/Kanishka_resume.pdf">
 <img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 
